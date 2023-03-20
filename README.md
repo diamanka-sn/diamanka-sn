@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Mouhamadou DIAMANKA</h1>
+<h1 align="center">Bienvenue sur mon profil GitHub !!!</h1>
 <h3 align="center">Je suis un développeur passionné :heart_eyes: qui aime explorer de nouvelles technologies et créer des applications innovantes.</h3>
 
 
