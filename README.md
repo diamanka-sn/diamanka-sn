@@ -1,6 +1,9 @@
 <h1 align="center">Bienvenue sur mon profil GitHub !!!</h1>
 <h3 align="center">Je suis un développeur passionné :heart_eyes: qui aime explorer de nouvelles technologies et créer des applications innovantes.</h3>
-
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/diamanka-sn/count.svg" />
+</p>
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
