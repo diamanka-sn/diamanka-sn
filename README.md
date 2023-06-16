@@ -1,16 +1,21 @@
 <h1 align="center">🤩 Bienvenue sur mon profil GitHub</h1>
-<h3 align="center">Je suis un développeur passionné :heart_eyes: qui aime explorer de nouvelles technologies et créer des applications innovantes.</h3>
+<p align="center">
+<a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/PROUDLY-FROM%20THE%20GREAT-green?style=for-the-badge&logo=love&logoColor=GREEN"></a>
+<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/COUNTRY%20OF%20-SENEGAL-ffc300?style=for-the-badge"></a>
+<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/IN%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"></a>
+</p>
  <p align="center"> 
   <h3>Compteur de visite</h3>
   <img src="https://profile-counter.glitch.me/diamanka-sn/count.svg" />
 </p>
 
 <h3 align="left">Contactez-moi :</h3>
-<p align="left">
-<a href="https://dev.to/diamankasn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="diamankasn" height="30" width="40" /></a>
-<a href="https://twitter.com/diamanka_sn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="diamanka" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/Diamanka-sn/"><img src="https://img.shields.io/badge/LINKEDIN-@diamanka-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
+<a href="https://twitter.com/diamanka_sn"><img src="https://img.shields.io/badge/TWITTER-@diamanka_sn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
+<a href="mailto:diamanka1998@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@diamanka-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
+ <a href="https://dev.to/diamankasn"><img src="https://img.shields.io/badge/DEV.to-@diamanka-4098a2?style=for-the-badge&logo=dev&logoColor=4098a2&logoWidth=25" alt="social_gmail"></a>
 </p>
-
 
 <h2>Outils et technologies</h2>
 <p><a href="https://www.java.com"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"  width="40" height="40"/></a>&nbsp;
@@ -26,7 +31,8 @@
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp; <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
- ________
+
+ 
 <p>N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet.</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamanka-sn&show_icons=true&locale=en&layout=compact" alt="diamanka" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diamanka-sn&show_icons=true&locale=en" alt="diamanka" /></p>
