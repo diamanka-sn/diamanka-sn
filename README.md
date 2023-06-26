@@ -1,9 +1,9 @@
 <h1 align="center">🤩 Bienvenue sur mon profil GitHub</h1>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/PROUDLY-FROM%20THE%20GREAT-green?style=for-the-badge&logo=love&logoColor=GREEN"></a>
 <a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/COUNTRY%20OF%20-SENEGAL-ffc300?style=for-the-badge"></a>
 <a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/IN%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"></a>
-</p>
+</p> -->
  <p align="center"> 
   <h3>Compteur de visite</h3>
   <img src="https://profile-counter.glitch.me/diamanka-sn/count.svg" />
