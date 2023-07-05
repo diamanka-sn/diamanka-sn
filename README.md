@@ -1,15 +1,15 @@
 <h1 align="center">🤩 Bienvenue sur mon profil GitHub</h1>
-<!-- <p align="center">
-<a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/PROUDLY-FROM%20THE%20GREAT-green?style=for-the-badge&logo=love&logoColor=GREEN"></a>
-<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/COUNTRY%20OF%20-SENEGAL-ffc300?style=for-the-badge"></a>
-<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/IN%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"></a>
-</p> -->
+<p align="center">
+<img src="https://img.shields.io/badge/Full%20stack-Developper-green?style=for-the-badge&logo=love&logoColor=GREEN">
+<img src="https://img.shields.io/badge/software-engineering-ffc300?style=for-the-badge">
+<!-- <img src="https://img.shields.io/badge/IN%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"> -->
+</p>
  <p align="center"> 
-  <h3>Compteur de visite</h3>
+  <img src="https://img.shields.io/badge/Visit-count-crimson?style=for-the-badge">
   <img src="https://profile-counter.glitch.me/diamanka-sn/count.svg" />
 </p>
 
-<h3 align="left">Contactez-moi :</h3>
+<h3 align="left">Contact me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/Diamanka-sn/"><img src="https://img.shields.io/badge/LINKEDIN-@diamanka-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
 <a href="https://twitter.com/diamanka_sn"><img src="https://img.shields.io/badge/TWITTER-@diamanka_sn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
@@ -17,7 +17,7 @@
  <a href="https://dev.to/diamankasn"><img src="https://img.shields.io/badge/DEV.to-@diamanka-4098a2?style=for-the-badge&logo=dev&logoColor=4098a2&logoWidth=25" alt="social_gmail"></a>
 </p>
 
-<h2>Outils et technologies</h2>
+<h2><img src="https://img.shields.io/badge/Tools-Technologies-ffc300?style=for-the-badge"></h2>
 <p><a href="https://www.java.com"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"  width="40" height="40"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"  width="40" height="40"/></a>&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"  width="40" height="40"/></a>&nbsp;
