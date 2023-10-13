@@ -1,4 +1,4 @@
-<h1 align="center">🤩 Bienvenue sur mon profil GitHub</h1>
+<h1 align="center">J A M A N K A 🐼 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Full%20stack-Developper-green?style=for-the-badge&logo=love&logoColor=GREEN">
 <img src="https://img.shields.io/badge/software-engineering-ffc300?style=for-the-badge">
