@@ -32,8 +32,6 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp; <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 </p>
 
- 
-<p>N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet.</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamanka-sn&show_icons=true&locale=en&layout=compact" alt="diamanka" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diamanka-sn&show_icons=true&locale=en" alt="diamanka" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diamanka-sn&" alt="diamanka" /></p>
