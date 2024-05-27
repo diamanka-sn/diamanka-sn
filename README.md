@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/diamanka-sn/count.svg" />
 </p>
 
-<h3 align="left">Contact me </h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/Diamanka-sn/"><img src="https://img.shields.io/badge/LINKEDIN-@diamanka-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
 <a href="https://twitter.com/diamanka_sn"><img src="https://img.shields.io/badge/TWITTER-@diamanka_sn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
