@@ -1,7 +1,7 @@
 <h1 align="center">D I A M A N K A 🐼 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Full%20stack-Developper-green?style=for-the-badge&logo=love&logoColor=GREEN">
-<img src="https://img.shields.io/badge/software-engineering-ffc300?style=for-the-badge">
+<img src="https://img.shields.io/badge/software-engineer-ffc300?style=for-the-badge">
 <!-- <img src="https://img.shields.io/badge/IN%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"> -->
 </p>
  <p align="center"> 
