@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/Diamanka-sn/"><img src="https://img.shields.io/badge/LINKEDIN-@diamanka-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
 <a href="https://twitter.com/diamanka_sn"><img src="https://img.shields.io/badge/TWITTER-@diamanka_sn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
-<a href="mailto:diamanka1998@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@diamanka-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
+<a href="mailto:diamanka.sn@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@diamanka-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
  <a href="https://dev.to/diamankasn"><img src="https://img.shields.io/badge/DEV.to-@diamanka-4098a2?style=for-the-badge&logo=dev&logoColor=4098a2&logoWidth=25" alt="social_gmail"></a>
 </p>
 
