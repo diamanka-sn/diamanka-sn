@@ -1,43 +1,91 @@
-<h1 align="center">D I A M A N K A 🐼 </h1>
-<p align="center">
-<img src="https://img.shields.io/badge/Full%20stack-Developper-green?style=for-the-badge&logo=love&logoColor=GREEN">
-<img src="https://img.shields.io/badge/software-engineer-ffc300?style=for-the-badge">
-<!-- <img src="https://img.shields.io/badge/IN%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"> -->
-</p>
- <p align="center"> 
-  <img src="https://img.shields.io/badge/Visit-count-crimson?style=for-the-badge">
-  <img src="https://profile-counter.glitch.me/diamanka-sn/count.svg" />
-</p>
-
+ <h1 align="center">M O U H A M A D O U  D I A M A N K A</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/Diamanka-sn/"><img src="https://img.shields.io/badge/LINKEDIN-@diamanka-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
-<a href="https://twitter.com/diamanka_sn"><img src="https://img.shields.io/badge/TWITTER-@diamanka_sn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
-<a href="mailto:diamanka.sn@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@diamanka-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
- <a href="https://dev.to/diamankasn"><img src="https://img.shields.io/badge/DEV.to-@diamanka-4098a2?style=for-the-badge&logo=dev&logoColor=4098a2&logoWidth=25" alt="social_gmail"></a>
+  <strong>Scientific Python Developer · Earth Observation · Satellite Meteorology & Climate</strong>
 </p>
 
-<h2><img src="https://img.shields.io/badge/Tools-Technologies-ffc300?style=for-the-badge"></h2>
-<p><a href="https://www.java.com"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"  width="40" height="40"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"  width="40" height="40"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"  width="40" height="40"/></a>&nbsp;
-<a><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/> </a> &nbsp;
-<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="40" height="40"/></a>&nbsp;
-<a href="https://www.chartjs.org" > <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a>&nbsp;
-<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a> &nbsp; 
- <a href="https://expressjs.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  width="40" height="40"/></a> &nbsp;
- <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
- <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>  &nbsp;
- <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a> &nbsp;
- <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  width="40" height="40"/></a> &nbsp;
-  <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a> &nbsp;
-  <a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a> &nbsp;
-  <a href="https://www.python.org" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="40" height="40"/></a> &nbsp;
-
-  <a href="https://docs.nestjs.com/" > <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"  width="40" height="40"/></a>&nbsp;
-   <a href="https://expo.dev/"> <img src="https://cdn.svgporn.com/logos/expo.svg"  width="40" height="40"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Earth-Observation-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Satellite-Meteorology-0077B5?style=for-the-badge" />
 </p>
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamanka-sn&show_icons=true&locale=en&layout=compact" alt="diamanka" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diamanka-sn&show_icons=true&locale=en" alt="diamanka" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diamanka-sn&" alt="diamanka" /></p> -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Diamanka-sn/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Profile-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:diamanka.sn@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-B23121?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dev.to/diamankasn">
+    <img src="https://img.shields.io/badge/DEV.to-Articles-4098a2?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### About me
+
+I am a software engineer with a background in **Space Science and Technology**, specializing in Satellite Meteorology and Global Climate.
+
+My interests lie at the intersection of software development, Earth observation and scientific data analysis.
+
+I work with Python to process, analyze and visualize satellite and climate datasets, with experience in EarthCARE data processing and validation at CNRM (Météo-France – CNRS).
+
+### Areas of interest
+
+- Earth Observation and Remote Sensing
+- Satellite Meteorology and Climate Science
+- Scientific Data Processing and Analysis
+- Atmospheric Science and Environmental Data
+- Machine Learning for Climate and Geosciences
+
+### Tools & Technologies
+
+**Programming languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r" />
+</p>
+
+**Scientific Python & Data Analysis**
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xarray-005571?style=flat" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
+  <img src="https://img.shields.io/badge/Cartopy-2E8B57?style=flat" />
+</p>
+
+**Earth Observation & Geospatial**
+
+<p>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/SNAP-0077B5?style=flat" />
+  <img src="https://img.shields.io/badge/NetCDF%20%2F%20HDF-Data%20Formats-6A5ACD?style=flat" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat" />
+</p>
+
+**Databases, Development & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,docker,vscode,jupyter" />
+</p>
+
+### Featured interests
+
+- Processing and validation of EarthCARE satellite observations.
+- Analysis of atmospheric and cloud properties over Antarctica.
+- Comparison of satellite observations with ground-based measurements and ERA5 reanalysis.
+- Development of Python workflows for scientific data processing and visualization.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamanka-sn&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <i>Exploring Earth through data and science.</i>
+</p>
