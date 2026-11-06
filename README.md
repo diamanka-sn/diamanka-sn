@@ -1,4 +1,4 @@
- <h1 align="center">M O U H A M A D O U  D I A M A N K A</h1>
+ <h1 align="center">Mouhamadou  DIAMANKA</h1>
 
 <p align="center">
   <strong>Scientific Python Developer · Earth Observation · Satellite Meteorology & Climate</strong>
