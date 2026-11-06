@@ -83,9 +83,5 @@ I work with Python to process, analyze and visualize satellite and climate datas
 - Development of Python workflows for scientific data processing and visualization.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diamanka-sn&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
   <i>Exploring Earth through data and science.</i>
 </p>
