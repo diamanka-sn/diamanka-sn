@@ -1,7 +1,7 @@
  <h1 align="center">M O U H A M A D O U  D I A M A N K A</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · JavaScript · TypeScript · Node.js</strong>
+  <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
