@@ -1,13 +1,13 @@
- <h1 align="center">Mouhamadou  DIAMANKA</h1>
+ <h1 align="center">M O U H A M A D O U  D I A M A N K A</h1>
 
 <p align="center">
-  <strong>Scientific Python Developer · Earth Observation · Satellite Meteorology & Climate</strong>
+  <strong>Full Stack Developer · JavaScript · TypeScript · Node.js</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Earth-Observation-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Satellite-Meteorology-0077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
   <a href="mailto:diamanka.sn@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Contact-B23121?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://dev.to/diamankasn">
-    <img src="https://img.shields.io/badge/DEV.to-Articles-4098a2?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <a href="https://github.com/diamanka-sn">
+    <img src="https://img.shields.io/badge/GITHUB-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -26,62 +26,50 @@
 
 ### About me
 
-I am a software engineer with a background in **Space Science and Technology**, specializing in Satellite Meteorology and Global Climate.
+I am a software engineer with a Master's degree in Software Engineering and a background in Space Science and Technology.
 
-My interests lie at the intersection of software development, Earth observation and scientific data analysis.
+I have experience in full stack development, working with JavaScript, TypeScript, Node.js and relational databases.
 
-I work with Python to process, analyze and visualize satellite and climate datasets, with experience in EarthCARE data processing and validation at CNRM (Météo-France – CNRS).
+I enjoy building web applications, developing APIs and working with data-driven applications. I am also interested in open-source software, developer tools and AI-assisted development.
 
-### Areas of interest
-
-- Earth Observation and Remote Sensing
-- Satellite Meteorology and Climate Science
-- Scientific Data Processing and Analysis
-- Atmospheric Science and Environmental Data
-- Machine Learning for Climate and Geosciences
-
-### Tools & Technologies
+### Technical skills
 
 **Programming languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
 
-**Scientific Python & Data Analysis**
+**Frontend development**
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xarray-005571?style=flat" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" />
-  <img src="https://img.shields.io/badge/Cartopy-2E8B57?style=flat" />
+  <img src="https://skillicons.dev/icons?i=html,css,angular" />
 </p>
 
-**Earth Observation & Geospatial**
+**Backend development**
 
 <p>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNAP-0077B5?style=flat" />
-  <img src="https://img.shields.io/badge/NetCDF%20%2F%20HDF-Data%20Formats-6A5ACD?style=flat" />
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-**Databases, Development & Tools**
+**Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,linux,docker,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-### Featured interests
+**Tools & Environment**
 
-- Processing and validation of EarthCARE satellite observations.
-- Analysis of atmospheric and cloud properties over Antarctica.
-- Comparison of satellite observations with ground-based measurements and ERA5 reanalysis.
-- Development of Python workflows for scientific data processing and visualization.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+</p>
+
+### Scientific computing
+
+I also have a background in scientific Python and Earth observation, including satellite data processing, climate analysis and geospatial applications.
+
+**Technologies:** Python, Pandas, NumPy, Xarray, GeoPandas and PostgreSQL/PostGIS.
 
 <p align="center">
-  <i>Exploring Earth through data and science.</i>
+  <i>Building useful software, learning continuously and contributing to open source.</i>
 </p>
